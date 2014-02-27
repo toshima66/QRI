@@ -1,0 +1,9 @@
+/bin
+/.settings
+/lib
+/monitor
+/cmd
+*.log
+*.jar
+.classpath
+.project
